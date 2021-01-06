@@ -22,7 +22,7 @@ document.getElementById("CreateBlockBtn").addEventListener("click", () => {
     const l = Number(document.getElementById("Length").value);
 
     createBlock(w,l,h);
-    console.log("Hello Dave");
+    //alert("Hello Dave");
 });
 
 
